@@ -4832,6 +4832,7 @@ textarea {
 /* PARTS */
 .header {
   position: relative;
+  z-index: 1;
 }
 .header-top {
   display: -webkit-box;
