@@ -3798,7 +3798,7 @@ img {
 .lamps-warning::before {
   position: absolute;
   content: "Заполните это поле";
-  left: 27px;
+  left: 25px;
   display: block;
   font-family: 'OpenSans-Regular';
   font-weight: 400;
