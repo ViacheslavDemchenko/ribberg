@@ -3797,6 +3797,7 @@ img {
 .square-warning::before,
 .lamps-warning::before {
   position: absolute;
+  left: 0;
   content: "Заполните это поле";
   display: block;
   font-family: 'OpenSans-Regular';
